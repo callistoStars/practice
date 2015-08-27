@@ -4,3 +4,6 @@ blah blah yum
 an edit in the remote
 
 Alex made some changes
+
+
+Alex made more modifications on his feature
